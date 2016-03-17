@@ -38,6 +38,10 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 
+## Navigation
+
+* [Suto Navigation](https://github.com/thang2410199/Suto-Navigation) - A navigation service for UWP which leaves minimal memory footprint and support custom transitions such as Parallax, Scale, Fade, Slide.... Support for element Recycling and react to low memory.
+
 ## Networking library
 
 * [BaseRestService](https://github.com/igorkulman/Kulman.WPA81.BaseRestService) - Base class for a REST service implementation simplifying communication with JSON based REST APIs.
